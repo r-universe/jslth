@@ -5,3 +5,6 @@
 [submodule "photon"]
 	path = photon
 	url = https://github.com/jslth/photon
+[submodule "z22"]
+	path = z22
+	url = https://github.com/jslth/z22
